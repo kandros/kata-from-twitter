@@ -1,7 +1,7 @@
 const getXY = require('./index')
 
 const tests = [
-  /* index, x, y */
+  /* [index, x, y] */
   [0, 0, 0],
   [1, 1, 0],
   [2, 2, 0],
